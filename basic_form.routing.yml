@@ -1,0 +1,8 @@
+
+basic_form.basicform:
+  path: '/basic-form'
+  defaults:
+    _form: '\Drupal\basic_form\Form\BasicForm'
+    _title: 'Which is better?'
+  requirements:
+    _permission: 'access content'

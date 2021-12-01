@@ -1,0 +1,4 @@
+name: "Basic Form Module"
+description: "Just a basic module to create a form"
+type: module
+core: 8.x
